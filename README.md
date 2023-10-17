@@ -1,6 +1,6 @@
 # ✈ 여행 공금 관리 서비스 TRAVELANCE 💸
 
-![Header](./images/Header.png)
+<img src="https://github.com/surimjeon/Travelance/assets/122578934/ade0c94a-d1e5-4dc2-bd8e-84287701caae.png" width="70%" height="50%"/>
 
 ```
 📢 SSFAY 9기 2학기 특화프로젝트
@@ -166,10 +166,6 @@
 
 - Bank ERD
   ![bankERD](./images/bankERD.png)
-
-## 4-2. [Figma](https://www.figma.com/file/4LqAy6jaGjnOyNTY8JejZL/%EC%97%AC%ED%96%89-%EC%A0%95%EC%82%B0-%EC%95%B1?type=design&node-id=8-6&mode=design&t=zwAG1TJuxW4UqQOs-0)
-
-## 4-3. [요구사항명세서](https://cord-custard-f85.notion.site/f68921e33061467c826b65dc215ab41b?pvs=4)
 
 <br/>
 
