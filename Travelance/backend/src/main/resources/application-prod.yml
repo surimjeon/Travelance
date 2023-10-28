@@ -1,8 +1,8 @@
 cloud:
   aws:
     credentials:
-      accessKey: AKIAUQJMJCBEXYS3EMKA
-      secretKey: 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
+      accessKey: 
+      secretKey: 
     s3:
       bucket: travelance
     region:
